@@ -1,0 +1,61 @@
+nav ul a,
+nav .brand-logo{color:#fff;}
+p{line-height:2rem;}
+.button-collapse{color:#fff;}
+.parallax-container{min-height:380px;line-height:0;height:auto;color:rgba(255,255,255,.9);}
+.parallax-container .section{width:100%;}
+@media only screen and (max-width:992px){.parallax-container .section{position:absolute;top:40%;}
+#index-banner .section{top:10%;}
+}
+@media only screen and (max-width:600px){#index-banner .section{top:0;}
+}
+.icon-block{padding:0 15px;}
+.icon-block .material-icons{font-size:inherit;}
+footer.page-footer{margin:0;}
+.letra{color:#30496b;}
+.letra2{color:#476c9e;}
+a:hover{color: #30496b;}
+
+.pleca{
+	border-left: 5px solid rgba(0, 192, 196, 0.62);
+	padding-left: 6px;
+}
+
+.marco{
+border: 5px solid rgba(0, 192, 196, 0.62);
+}   
+
+.marco:hover{
+border: 5px solid rgba(106, 238, 241, 0.62);
+}   
+
+
+
+.pleca1{
+	border-left: 5px solid rgba(241, 218, 106, 0.71);
+	padding-left: 6px;
+}
+
+.marco1{
+border: 5px solid rgba(241, 218, 106, 0.71);
+}   
+
+.marco1:hover{
+border: 5px solid rgba(249, 232, 151, 0.52);
+} 
+
+
+
+
+.pleca2{
+	border-left: 5px solid rgba(70, 179, 249, 0.62);
+	padding-left: 6px;
+}
+
+.marco2{
+border: 5px solid rgba(70, 179, 249, 0.62);
+}   
+
+.marco2:hover{
+border: 5px solid rgba(141, 199, 236, 0.62);
+} 
