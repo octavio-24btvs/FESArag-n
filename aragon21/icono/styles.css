@@ -1,0 +1,277 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "untitled-font-5";
+  src:url("fonts/untitled-font-5.eot");
+  src:url("fonts/untitled-font-5.eot?#iefix") format("embedded-opentype"),
+    url("fonts/untitled-font-5.woff") format("woff"),
+    url("fonts/untitled-font-5.ttf") format("truetype"),
+    url("fonts/untitled-font-5.svg#untitled-font-5") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "untitled-font-5" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  font-family: "untitled-font-5" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-becas-1:before {
+  content: "\63";
+}
+.icon-biblioteca:before {
+  content: "\79";
+}
+.icon-bolsa-de-trabajo:before {
+  content: "\42";
+}
+.icon-servicio-social:before {
+  content: "\43";
+}
+.icon-servicios-en-computo:before {
+  content: "\44";
+}
+.icon-servicios-escolares:before {
+  content: "\45";
+}
+.icon-centro-de-lenguas:before {
+  content: "\61";
+}
+.icon-linkedin-square:before {
+  content: "\62";
+}
+.icon-facebook-official:before {
+  content: "\64";
+}
+.icon-twitter-square:before {
+  content: "\65";
+}
+.icon-pinterest:before {
+  content: "\66";
+}
+.icon-envelope-o:before {
+  content: "\67";
+}
+.icon-youtube-play:before {
+  content: "\68";
+}
+.icon-calendar:before {
+  content: "\69";
+}
+.icon-signal:before {
+  content: "\6b";
+}
+.icon-logo-de-instagram:before {
+  content: "\6a";
+}
+.icon-sobre:before {
+  content: "\6c";
+}
+.icon-youtube:before {
+  content: "\6d";
+}
+.icon-buscar-incidencias:before {
+  content: "\6e";
+}
+.icon-c:before {
+  content: "\6f";
+}
+.icon-cfmi:before {
+  content: "\70";
+}
+.icon-ciencias-sociales:before {
+  content: "\71";
+}
+.icon-cise:before {
+  content: "\72";
+}
+.icon-hya:before {
+  content: "\73";
+}
+.icon-posgrados:before {
+  content: "\74";
+}
+.icon-unidad-juridica:before {
+  content: "\76";
+}
+.icon-arte-y-cultura:before {
+  content: "\77";
+}
+.icon-centro-de-investigacion-aragon:before {
+  content: "\78";
+}
+.icon-centro-tecnologico:before {
+  content: "\7a";
+}
+.icon-consejo-tecnico:before {
+  content: "\41";
+}
+.icon-direccion:before {
+  content: "\46";
+}
+.icon-educacion-continua:before {
+  content: "\47";
+}
+.icon-extencion-universitaria:before {
+  content: "\48";
+}
+.icon-tutorias:before {
+  content: "\49";
+}
+.icon-servicio-a-la-comunidad:before {
+  content: "\4a";
+}
+.icon-protecion-civil:before {
+  content: "\4b";
+}
+.icon-orgullo-aragon:before {
+  content: "\4c";
+}
+.icon-intercambio-academico:before {
+  content: "\4d";
+}
+.icon-icon:before {
+  content: "\4e";
+}
+.icon-simbolo-de-la-sumision-del-directorio:before {
+  content: "\4f";
+}
+.icon-tiempo:before {
+  content: "\50";
+}
+.icon-etiqueta:before {
+  content: "\51";
+}
+.icon-acceso-fesar:before {
+  content: "\52";
+}
+.icon-hecho-en-aragon:before {
+  content: "\53";
+}
+.icon-contacto-de-emergencia:before {
+  content: "\56";
+}
+.icon-revicion-de-estudios:before {
+  content: "\57";
+}
+.icon-transprencia:before {
+  content: "\58";
+}
+.icon-todox-somos-unam:before {
+  content: "\59";
+}
+.icon-servicios-medicos:before {
+  content: "\5a";
+}
+.icon-como-llegar:before {
+  content: "\55";
+}
+.icon-mapa-de-la-fes:before {
+  content: "\54";
+}
+.icon-actididades-deportivas:before {
+  content: "\30";
+}
+.icon-arquitectura:before {
+  content: "\31";
+}
+.icon-derecho:before {
+  content: "\32";
+}
+.icon-diseno-industrial:before {
+  content: "\33";
+}
+.icon-economia:before {
+  content: "\34";
+}
+.icon-comunicacion-y-peridismo:before {
+  content: "\35";
+}
+.icon-ingenieria-civil:before {
+  content: "\36";
+}
+.icon-relaciones-internacionales:before {
+  content: "\37";
+}
+.icon-planificacion-para-el-desarrollo-agropecuario:before {
+  content: "\38";
+}
+.icon-pedagogia:before {
+  content: "\39";
+}
+.icon-ingenieria-mecanica:before {
+  content: "\21";
+}
+.icon-ingenieria-industrial:before {
+  content: "\22";
+}
+.icon-ingenieria-en-computacion:before {
+  content: "\23";
+}
+.icon-ingenieria-electrica-electronica:before {
+  content: "\24";
+}
+.icon-sociologia:before {
+  content: "\25";
+}
+.icon-torres:before {
+  content: "\26";
+}
+.icon-unidad-administrativa:before {
+  content: "\27";
+}
+.icon-portal-docentes:before {
+  content: "\28";
+}
+.icon-portal-docentes2:before {
+  content: "\29";
+}
+.icon-duacyd:before {
+  content: "\75";
+}
+.icon-suayed:before {
+  content: "\2a";
+}
+.icon-direccion-1:before {
+  content: "\2b";
+}
+.icon-hecho-en-aragon-1:before {
+  content: "\2c";
+}
+.icon-todox-somos-unam-1:before {
+  content: "\2d";
+}
+.icon-hecho-en-aragon-2:before {
+  content: "\2e";
+}
+.icon-todox-somos-unam-2:before {
+  content: "\2f";
+}
+.icon-todxs-somos-unam:before {
+  content: "\3a";
+}
+.icon-hecho-en-aragon-3:before {
+  content: "\3b";
+}
