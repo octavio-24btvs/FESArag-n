@@ -1,0 +1,125 @@
+
+nav .brand-logo{
+  margin-left:40px;
+}
+.ts2{
+  color:#000;
+}
+.ts3{
+  color: #fff;
+}
+nav div a:hover{
+  color: #fff;
+}
+
+nav div ul li a:hover{
+  color: #fff;
+}
+
+.ts{
+	color: #0091EA;
+}
+.ts1{
+  color: #30496B;
+}
+
+.logo{
+  width: 10px;
+}
+.ts{
+  color: #0091EA;
+}
+.ts1{
+   color: #30496B;
+}
+
+
+@media only screen and (min-width: 769px){
+	.collection a.collection-item {
+	font-size: 14pt;
+	font-weight: 200;
+	color: #FFFFFF;
+	}
+
+	.collapsible-header{
+		background-color: #0099ff;
+		color:#fff;
+	}
+
+
+	.collection .collection-item {
+		background-color: #0099ff;
+	}
+	.collection .collection-item:hover {
+		color: #424040;
+	}
+	.btn {
+    background-color: #30496B;
+	}
+
+	.btn:hover{
+		background-color: #0099FF;
+		color: #000000;
+	}
+}
+@media only screen and (min-width: 481px) and (max-width: 768px){
+	.collection a.collection-item {
+	font-size: 10pt;
+	font-weight: 200;
+	color: #FFFFFF;
+	}
+	.collapsible-header{
+		background-color: #0099ff;
+		color:#fff;
+		font-size: 10pt;
+	}
+
+	.collection .collection-item {
+		background-color: #0099ff;
+	}
+	.collection .collection-item:hover {
+		color: #424040;
+	}
+	.btn {
+    background-color: #30496B;
+	}
+
+	.btn:hover{
+		background-color: #0099FF;
+		color: #FFFFFF;
+	}
+}
+
+
+@media only screen and (max-width: 480px){
+	.collection a.collection-item {
+	font-size: 9pt;
+	font-weight: 200;
+	color: #FFFFFF;
+	}
+	.collapsible-header{
+		background-color: #0099ff;
+		color:#fff;
+		font-size: 9pt
+	}
+	
+
+	.collection .collection-item {
+		background-color: #0099ff;
+	}
+	.collection .collection-item:hover {
+		color: #424040;
+	}
+	.btn {
+    background-color: #30496B;
+	}
+
+	.btn:hover{
+		background-color: #0099FF;
+		color: #FFFFFF;
+	}
+	.card .card-title{
+	font-size: 14px;
+	}
+}
+
